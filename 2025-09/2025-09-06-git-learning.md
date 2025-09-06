@@ -1,6 +1,7 @@
 ## 2025-09-06 Git学習メモ
 
-- [参考文献](https://youtu.be/6SLMB7BPG9E?si=glIpTsdFxN0dtinl)
+### 参考文献
+- [【わかりやすい！Git操作】初心者向けのGitの基本 〜 30分で入門！](https://youtu.be/6SLMB7BPG9E?si=glIpTsdFxN0dtinl)
 
 ### Gitとは
 ソースコードのバージョンを管理するツール
