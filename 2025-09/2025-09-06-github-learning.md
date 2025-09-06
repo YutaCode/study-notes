@@ -40,6 +40,7 @@ git switch <ブランチ名>    # 推奨される新しい書き方
 
 ### マージ方法
 **mainにfeatureをマージする場合**
+
 main ← feature (main側でコマンドを実行)
 
 - **コンフリクトなし**
